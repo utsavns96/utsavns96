@@ -1,4 +1,4 @@
-### CS Grad Student @ UIC  - Fall '24
+### MS CS Grad from UIC '24
 ![](https://komarev.com/ghpvc/?username=utsavns96&color=blueviolet)
 <!--
 **utsavns96/utsavns96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
